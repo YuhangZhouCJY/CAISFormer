@@ -1,0 +1,13 @@
+{
+  "project_name": "Steganography",
+  "epoch_number": 200,
+  "batch_size": 12,
+  "train_continue": false,
+  "train_continue_path": "",
+  "train_continue_epoch": 0,
+  "dataset_path": "",
+  "save_images_number": 8,
+  "H": 128,
+  "W": 128,
+  "lr": 1e-3
+}
