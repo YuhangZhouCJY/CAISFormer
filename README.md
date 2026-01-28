@@ -1,2 +1,2 @@
 # CAISFormer
-The source code will be available after the paper is published.
+The code of "CAISFormer: Channel-wise attention transformer for image steganography"
